@@ -1,14 +1,14 @@
 {
-  "name": "nightwatch-xhr",
+  "name": "nightwatch-xhr-mod”,
   "version": "0.2.1",
-  "description": "An XHR \"Listener\" for Nightwatch.js",
+  "description": "An XHR \"Listener\" with response passing for Nightwatch.js based off of the original nightwatch-xhr by orzilca@gmail.com“,
   "main": "lib/waitForXHR.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cortexmg/nightwatch-xhr.git"
+    "url": "git+https://github.com/urbanspr1nter/nightwatch-xhr.git"
   },
   "keywords": [
     "ajax",
@@ -16,10 +16,7 @@
     "nightwatchjs",
     "nightwatch"
   ],
-  "author": "orzilca <orzilca@gmail.com> (https://github.com/orzilca)",
+  "author": “Roger Ngo (https://github.com/urbanspr1nter)”,
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/cortexmg/nightwatch-xhr/issues"
-  },
-  "homepage": "https://github.com/cortexmg/nightwatch-xhr#readme"
+  "homepage": "https://github.com/urbanspr1nter/nightwatch-xhr"
 }
