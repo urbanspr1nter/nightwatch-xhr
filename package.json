@@ -1,7 +1,7 @@
 {
-  "name": "nightwatch-xhr-mod”,
+  "name": "nightwatch-xhr-mod",
   "version": "0.2.1",
-  "description": "An XHR \"Listener\" with response passing for Nightwatch.js based off of the original nightwatch-xhr by orzilca@gmail.com“,
+  "description": "An XHR \"Listener\" with response passing for Nightwatch.js based off of the original nightwatch-xhr by orzilca@gmail.com",
   "main": "lib/waitForXHR.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,7 +16,7 @@
     "nightwatchjs",
     "nightwatch"
   ],
-  "author": “Roger Ngo (https://github.com/urbanspr1nter)”,
+  "author": "Roger Ngo (https://github.com/urbanspr1nter)",
   "license": "MIT",
   "homepage": "https://github.com/urbanspr1nter/nightwatch-xhr"
 }
